@@ -2,7 +2,7 @@
 This is a collaboration between Rachel &amp; Lea hyping it up to create immersive narrative experiences. 
 The first production is entitled "Abyssal Wander"
 
-![image](https://github.com/aelfruit/LookUpVR/assets/122920862/ebcdc746-9c8d-4441-9103-c8983cdf345e)
+![image](https://github.com/VFS-VRAR/VAR05-AbyssalWander-FinalProject/blob/main/MainImage.png)
 
 ## Summary
 "Abyssal Wander" is an immersive experience that invites players to journey through the emotional aftermath of a tragic accident. 
@@ -27,14 +27,14 @@ Guide players through an introspective journey, enabling them to confront, accep
 * Engaging Obstacles: Physical and emotional barriers that players must overcome, symbolizing stages of grief.
 
 ## Controls:
-![image](https://github.com/aelfruit/LookUpVR/assets/122920862/90652021-d167-485c-acdf-9c4fbd594b3c)
+![image](https://github.com/VFS-VRAR/VAR05-AbyssalWander-FinalProject/blob/main/Controls.png)
 
 ## Process:
 ### July 5, 2023
-![image](https://github.com/aelfruit/LookUpVR/assets/122920862/aabe914e-77ab-4908-b08a-0929c039fd37)
+![image](https://github.com/VFS-VRAR/VAR05-AbyssalWander-FinalProject/blob/main/FinalProject.png)
 
 ### August 8, 2023
-![image](https://github.com/aelfruit/LookUpVR/assets/122920862/a922c800-b49c-4a14-8cae-08c06e3f0a08)
+![image](https://github.com/VFS-VRAR/VAR05-AbyssalWander-FinalProject/blob/main/GameSequence.png)
 
 ## Case Study Video:
 https://www.youtube.com/watch?v=6TREhLBFBoA
